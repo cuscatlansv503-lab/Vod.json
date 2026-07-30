@@ -1,542 +1,317 @@
 [
   {
-    "hora": "10:30 UTC -5",
-    "nombre": "República Checa - FK Baumit Jablonec - Sigma Olomouc",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzwwYe5TPexaR1u1"
-  },
-  {
-    "hora": "10:30 UTC -5",
-    "nombre": "Ekstraklasa - Widzew Lodz - Motor Lublin",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vy1CKjXAegT1FDwXN"
-  },
-  {
-    "hora": "10:30 UTC -5",
-    "nombre": "Liga francesa de Letonia - FK Jelgava - FK Liepaja",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxmofbxL93aX7Y1hS"
-  },
-  {
-    "hora": "10:45 UTC -5",
-    "nombre": "Lituania - Transinvest - Dziugas Telsiai",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnJRyiWXdAcT9rxA"
-  },
-  {
-    "hora": "11:00 UTC -5",
-    "nombre": "Bulgaria - Cherno More - Spartak Varna",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnYpAbbiuxf7xnaY"
-  },
-  {
-    "hora": "11:00 UTC -5",
-    "nombre": "Dinamarca - Horsens - Nordsjaelland",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnoCMUgvCkhnmiCu"
-  },
-  {
-    "hora": "11:00 UTC -5",
-    "nombre": "Liga francesa de Letonia - Auda - BFC Daugavpils",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxo3aYMn7VYkTadpK"
-  },
-  {
-    "hora": "11:00 UTC -5",
-    "nombre": "Copa OFB - Leithaprodersdorf - FC Trenkwalder Admira",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBjdnZVUktnnMZnp"
-  },
-  {
-    "hora": "11:00 UTC -5",
-    "nombre": "Copa OFB - Wiener Sport-Club - Viena, Austria",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBz1ySag3gqTApuD"
-  },
-  {
-    "hora": "11:00 UTC -5",
-    "nombre": "Eslovenia - Bravo - Nafta",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oCEQAKfsLUt7ykXa"
-  },
-  {
-    "hora": "11:30 UTC -5",
-    "nombre": "Liga Premier de Rusia - Orenburg - FK Rostov",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyLWQX1kHCVKufxM"
-  },
-  {
-    "hora": "11:30 UTC -5",
-    "nombre": "Liga Premier de Rusia - Rubin Kazan - Krasnodar",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyatbQ6wZzXzibai"
-  },
-  {
     "hora": "12:00 UTC -5",
-    "nombre": "Copa Africana de Naciones - Argelia Oeste - Senegal Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyqGnHC8rnafXXCC"
-  },
-  {
-    "hora": "12:00 UTC -5",
-    "nombre": "Moldavia - Sireti real - Petrocub",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nz5eyAHL9UXyMW15"
-  },
-  {
-    "hora": "12:00 UTC -5",
-    "nombre": "Moldavia - Sheriff Tiraspol - Milsami",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nzL3A3NXSGaeARdS"
-  },
-  {
-    "hora": "12:00 UTC -5",
-    "nombre": "Serbia - Crvena zvezda - Vojvodina",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbNirkg1fJpR1cEy"
-  },
-  {
-    "hora": "12:00 UTC -5",
-    "nombre": "Eslovaquia - Banská Bystrica - Slovan Bratislava",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbd73dmCx6s5pXsL"
-  },
-  {
-    "hora": "12:15 UTC -5",
-    "nombre": "Eliteserien - Ålesund - Viking",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPDyfbHUUQZdNJY7"
+    "nombre": "Amigable - Málaga - Al Ittihad",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtZXbTBeQ2Ao5Eec"
   },
   {
     "hora": "12:30 UTC -5",
-    "nombre": "Escudo del Club CFU - Baltimore - Helenitas",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPUMrUNfmCcJBEBA"
+    "nombre": "Liga de Conferencias de la UEFA - Beitar Jerusalén - AEK Larnaca",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAu4HyDN2ycG8h5v1"
   },
   {
     "hora": "12:30 UTC -5",
-    "nombre": "Polonia División 1 - Puszcza - Polonia Varsovia",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPik3MTs3zexz9oX"
+    "nombre": "Liga de Conferencias de la UEFA - Ciudad de Derry - HNK Rijeka",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuJgA6TEGQJoW1YN"
   },
   {
     "hora": "12:30 UTC -5",
-    "nombre": "Polonia División 2 - Chojniczanka - Tychy",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPy8EEZ4Lnhdo5Rt"
+    "nombre": "Liga de Conferencias de la UEFA - TNS - Flora",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuZ4LyYRZCMUJwAj"
   },
   {
     "hora": "12:30 UTC -5",
-    "nombre": "Rumania - Csikszereda M. Ciuc - FCSB",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4nfBUSGRc8jxa1QP"
+    "nombre": "Liga de Conferencias de la UEFA - La Valeta - Rakow",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuoSXrdcqzQ97ro6"
+  },
+  {
+    "hora": "12:45 UTC -5",
+    "nombre": "Liga Europa de la UEFA - PAOK - Dinamo de Kyiv",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1KEeLhcZyiaUKZdi"
   },
   {
     "hora": "13:00 UTC -5",
-    "nombre": "Liga Profesional Argentina - Atlético Tucumán - Independiente Rivadavia",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmtn3H5qZVerTPXoDc"
+    "nombre": "Liga Europa de la UEFA - CSKA Sofía - Qarabag",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM15qzD8n4Lr6LdyH9"
   },
   {
     "hora": "13:00 UTC -5",
-    "nombre": "Argentina Primera B - Laferrere - Talleres",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtnHfGiegweW4Liqy"
+    "nombre": "Liga de Conferencias de la UEFA - Ajax - Vojvodina",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM166NQ1sFde91StuW"
   },
   {
     "hora": "13:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Agropecuario - San Martín de San Juan",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtnY3TbjtESYj9ywR"
+    "nombre": "Liga de Conferencias de la UEFA - FC Ballkani - Bohemians",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16LkatxSvSBgFpYY"
   },
   {
     "hora": "13:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - All Boys - Defensores de Belgrano",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBE6hoTFVnb3vuuv"
+    "nombre": "Liga de Conferencias de la UEFA - Ludogorets - Hapoel Tel Aviv",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16b8mn3eDEEM4kAu"
   },
   {
     "hora": "13:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Deportivo Morón - Ferro",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBUUtgYSnadijqYH"
+    "nombre": "Liga de Conferencias de la UEFA - Shkendija - Bravo",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16qWxf8qW2H1sfoG"
   },
   {
     "hora": "13:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Los Andes - Deportivo Madryn",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBis5Zde5NgPYmAe"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "nombre": "Canadá - Atlético Ottawa - Pacific FC",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjByFGSiqNAj4Mgo1"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "nombre": "República Checa - Hradec Kralove - FK Pardubice",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjCDdTKp2exmjAcRN"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "nombre": "Liga AUF Uruguaya - CA Cerro - Racing Montevideo",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjCU1eCuDwkpPyY4Q"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "nombre": "Perú - UTC Cajamarca - Moquegua",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriy5MWe4iJtLGHcDo"
+    "nombre": "Liga de Conferencias de la UEFA - Vestri - Rigas FS",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM175u9YE2npKggbRd"
   },
   {
     "hora": "13:15 UTC -5",
-    "nombre": "Bulgaria - Lokomotiv Plovdiv - Septemvri Sofía",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgsgYUPBkyakYwwnQ"
+    "nombre": "Liga de Conferencias de la UEFA - FC Sion - BATE",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqH8SppNUHg1tChuh"
   },
   {
     "hora": "13:15 UTC -5",
-    "nombre": "Ecuador - Delfín - Leones del Norte",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgsvvfGGxGNoDksQm"
-  },
-  {
-    "hora": "13:15 UTC -5",
-    "nombre": "Ecuador - SD Aucas - Macara",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgtBJr9N9ZAqtZo38"
-  },
-  {
-    "hora": "13:15 UTC -5",
-    "nombre": "Ekstraklasa - Wisla Cracovia - GKS Katowice",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgtRh32TLqxtZNifV"
-  },
-  {
-    "hora": "13:15 UTC -5",
-    "nombre": "Eslovenia - FC Koper - Radomlje",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgf32uTcqD6QRh8Hy"
+    "nombre": "Liga de Conferencias de la UEFA - UNA Strassen - Partizán de Belgrado",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHNq1hTfaU4Z1dY4"
   },
   {
     "hora": "13:30 UTC -5",
-    "nombre": "Argentina Primera Nacional - Colón Santa Fe - Chaco para siempre",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgfHR6Li2VtT6W3vL"
+    "nombre": "Liga Europa de la UEFA - Anderlecht - Hammarby",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHdDCaYrsG7DpZB6"
   },
   {
     "hora": "13:30 UTC -5",
-    "nombre": "Argentina Primera Nacional - San Miguel - Acassuso",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgfXoHDoDngVmJyYh"
+    "nombre": "Liga Europa de la UEFA - Ferencvaros - FC Twente",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHsbPTe4A49tdUoT"
   },
   {
     "hora": "13:30 UTC -5",
-    "nombre": "Copa OFB - Wienerberger - SK Rapid",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgfnBU6tR5UYS7uB4"
+    "nombre": "Liga de Conferencias de la UEFA - Austria Viena - FK Liepaja",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJ7yaLjFSrCZSQRp"
   },
   {
     "hora": "13:30 UTC -5",
-    "nombre": "Serbia - Mladost - Novi Pazar",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX4UEiJbnLpaktq9Z"
+    "nombre": "Liga de Conferencias de la UEFA - CFR Cluj - Alashkert",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJNMmDpSjeFEFL4B"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "nombre": "Liga de Conferencias de la UEFA - GKS Katowice - Zilina",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzTBAsu71YWdJJrY"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "nombre": "Liga de Conferencias de la UEFA - Gante - LNZ Cherkasy",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzhZMkzJJLZJ7EUu"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "nombre": "Liga de Conferencias de la UEFA - Panathinaikos - Paks",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzwwYe5Vb8bxvA6K"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "nombre": "Liga de Conferencias de la UEFA - Zrinjski - Valor",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vy1CKjXAgsvedj5ig"
+  },
+  {
+    "hora": "13:45 UTC -5",
+    "nombre": "Liga de Conferencias de la UEFA - Coleraine - HJK Helsinki",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxmofbxLBF4AW3VN7"
+  },
+  {
+    "hora": "13:45 UTC -5",
+    "nombre": "Liga de Conferencias de la UEFA - FC Koper - NSI Runavik",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxn43nqRNXrDArQzU"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - CA Mitre - Marrón Almirante",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX5DPGwsNDCimKwWV"
+    "nombre": "Liga Europa de la UEFA - Benfica - San Galo",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnJRyiWZpeFqfLdX"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Gimnasia Jujuy - Club A. Güemes",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX5TmTpxZVzmS8s8r"
+    "nombre": "Liga de Conferencias de la UEFA - Braga - Zeleznicar Pancevo",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnYpAbbm7SJWUGFt"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Midland - Patronato",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX5i9ei3knnp6wnmD"
+    "nombre": "Liga de Conferencias de la UEFA - Dinamo Tirana - Aluminij",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnoCMUgxQEMBHBtF"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Carreras Córdoba - San Telmo",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXWrKVX9DF9vKyFrvc"
+    "nombre": "Liga de Conferencias de la UEFA - Hiberniano - Malisheva",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxo3aYMn9h2Pr67Wc"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Bolivia - Floreciendo - El más fuerte",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXWrZsi2JSSiNe4nZe"
+    "nombre": "Liga de Conferencias de la UEFA - Sutjeska - ML Vitebsk",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBjdnZVWxNSAs3V7"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Serie A de Brasil - Cruzeiro - Botafogo RJ",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXWrpFtuPdjWRJsiC1"
+    "nombre": "Brasileño - Palmeiras U20 - RB Bragantino U20",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBz1ySaiFAUqfy6X"
   },
   {
     "hora": "14:00 UTC -5",
-    "nombre": "Serie A de Brasil - EC Bahía - Corintios",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXWs4e5nUq2JTygdpN"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Serie B de Brasil - Criciuma - Náutico",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMFkhKzCCHeWJTZns"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Serie B de Brasil - Sao Bernardo - Ceará",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMG15WsHPaSYyGptK"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Serie C de Brasil - Brusque - Ituano",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGFThkNasEbe5kWg"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Serie C de Brasil - Ypiranga FC - Barra FC",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGVqtdTnA2eJtg93"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Chile Primera A - Nublense - Palestino",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGkE5WYySpgyhbmQ"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Colombia Primera A - Inter Bogotá - América De Cali",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGzcGPeAjcjeWXPm"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Amigable - Sevilla - Ceuta",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3bx8pof6kFWpbZA"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Paraguay - Olimpia Asunción - Libertad Asunción",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3rLKhtrPYJBdXCC"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "nombre": "Serbia - Macva - Partizan de Belgrado",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM46iWaz3gLLrSSpZ"
-  },
-  {
-    "hora": "14:15 UTC -5",
-    "nombre": "Islandia - Fram - FH Hafnarfjordur",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTHY8YsoXGUWqE3k"
-  },
-  {
-    "hora": "14:15 UTC -5",
-    "nombre": "Islandia - IA Akranes - Stjarnan",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTXvKRxzp4XBe9g7"
-  },
-  {
-    "hora": "14:30 UTC -5",
-    "nombre": "Argentina Primera Nacional - Godoy Cruz - Centro Norte",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTnJWK4C6rZr8wHM"
-  },
-  {
-    "hora": "14:30 UTC -5",
-    "nombre": "Escudo del Club CFU - Willemstad - San Juan",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBU2ghC9PPecWwrui"
+    "nombre": "Paraguay - San Lorenzo - Guaraní",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oCEQAKfuXxXWUtit"
   },
   {
     "hora": "15:00 UTC -5",
-    "nombre": "Copa Africana de Naciones - Marruecos Oeste - Kenia Oeste",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBUH4t5EagSfBknY8"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "nombre": "Escudo del Club CFU - Asociación Metropolitana de Fútbol - Sotavento Norte",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBEtQkWQ53aB44riC"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "nombre": "Campeonato de la CONCACAF - Panamá Sub-20 - Canadá Sub-20",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBF8nwPVGLNDisnLZ"
-  },
-  {
-    "hora": "15:15 UTC -5",
-    "nombre": "Liga Profesional Argentina - Estudiantes LP - Independiente",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1f4m7zec3gVPhfuu"
+    "nombre": "Copa Africana de Naciones - Marruecos Oeste - Argelia Oeste",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61ny68DdvbBt63cDzf"
   },
   {
     "hora": "15:30 UTC -5",
-    "nombre": "Perú - Comerciantes Unidos - Alianza Lima",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1fZXVkpzdGajKXAd"
+    "nombre": "Copa Colombia - Envigado - Once Caldas",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyLWQX1nUg8iR9d2"
   },
   {
-    "hora": "15:45 UTC -5",
-    "nombre": "Ecuador - Orense - Independiente del Valle",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1SAsNBzUzQ6bdbL2"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Gimnasia y Tiro - Deportivo Maipú",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1SRFZ55gHC9GSWxP"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "nombre": "Canadá - Inter Toronto - Forja",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1SfdjxAsZzBwFSak"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "nombre": "Colombia Primera B - Patriotas - Inter Palmira",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqhn1Sv1vqG4rnEc4NDn"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "nombre": "El Salvador - Águila - Luis Ángel Firpo",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UwTtEkUn5nUpXZByTjcfj"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "nombre": "El Salvador - Fuerte San Francisco - Platense Municipal",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCynVgnfG4oTgfvBC"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "nombre": "NWSL - San Diego Wave W - Seattle Reign W",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCz2ssfkTMbWMUqoZ"
-  },
-  {
-    "hora": "16:05 UTC -5",
-    "nombre": "Colombia Primera A - Águilas Doradas - Independiente Santa Fe",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzHG4YqeePfa63iB"
-  },
-  {
-    "hora": "16:15 UTC -5",
-    "nombre": "Bolivia - Bolívar - Real Potosí",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzXeFRvqwBiEtyLY"
+    "hora": "15:30 UTC -5",
+    "nombre": "Serie B de Ecuador - Atlético FC - LDU Portoviejo",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyatbQ6ymUBPE5G4"
   },
   {
     "hora": "16:30 UTC -5",
-    "nombre": "Serie A de Brasil - Bragantino - Coritiba",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCzn2SK23Dykuhtxu"
+    "nombre": "Brasileño - Vasco Sub-20 - Santos Sub-20",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nz5eyAHNM4GiqvWn"
   },
   {
     "hora": "16:30 UTC -5",
-    "nombre": "Serie A de Brasil - Flamengo RJ - São Paulo",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmPNJkBXb7Gn1y8J"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "nombre": "Serie A de Brasil - Gremio - Fluminense",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmdkVdGisuKSptkf"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "nombre": "Serie B de Brasil - América MG - Goiás",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCmt8gWMvAhN7dpP2"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "nombre": "Serie B de Brasil - Londrina - Novorizontino",
-    "url": "https://www.vdocity.com/_5PpPE9QjBKBbZPDhaCn8WsPT7TVQnSk24"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "nombre": "Serie C de Brasil - SER Caxias - Botafogo PB",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6Wie7w1Zi5H3dHLtm"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "nombre": "Chile Primera A - Audax Italiano - Universidad de Chile",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WitW7teuN56J6GWB"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "nombre": "Paraguay - Guarani - Sportivo Luqueño",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6Wj8tJmk6es8xuC8Y"
+    "nombre": "Paraguay - Libertad Asunción - Recoleta",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nzL3A3NZdrKPer99"
   },
   {
     "hora": "17:00 UTC -5",
-    "nombre": "Argentina Primera Nacional - Quilmes - Colegiales",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WjPGVeqHwm3ud4pr"
+    "nombre": "Liga Profesional Argentina - Independiente Rivadavia - Huracán",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbNirkg3rnMGVUgp"
   },
   {
     "hora": "17:00 UTC -5",
-    "nombre": "Escudo del Club CFU - Delfines Del Este - Elite",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WVzcN5znJtZmw8zF"
+    "nombre": "Liga Profesional Argentina - Talleres Córdoba - Vélez Sarsfield",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbd73dmF9aPwJQKB"
   },
   {
     "hora": "17:00 UTC -5",
-    "nombre": "Colombia Primera B - Orsomarso - Barranquilla",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWEzYy5ybgcSk4cc"
+    "nombre": "Campeonato de la CONCACAF - Costa Rica Sub-20 - Antigua y Barbuda Sub-20",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbsVEWrSSNSc7KwY"
+  },
+  {
+    "hora": "17:00 UTC -5",
+    "nombre": "Copa Sudamericana - Gremio - Bolívar [inglés]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEc7sRPwdjAVGvFZu"
+  },
+  {
+    "hora": "17:00 UTC -5",
+    "nombre": "Copa Sudamericana - Gremio - Bolívar [español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEcNFcH2q1xXwjWfM"
+  },
+  {
+    "hora": "17:00 UTC -5",
+    "nombre": "Copa Sudamericana - Gremio - Bolívar [portugués]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEccdoA82JkacYSHi"
   },
   {
     "hora": "17:30 UTC -5",
-    "nombre": "Liga Profesional Argentina - Deportivo Riestra - Boca Juniors",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WWz97cMZU4kTAqVf"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "nombre": "Serie A de Brasil - Palmeiras - Atlético-MG",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbA6WXEXJVSkkro7ym75"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "nombre": "Serie A de Brasil - Remo - Vitoria",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLuvaYhA82CqSkh5a"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "nombre": "Ciudad de Flint - Ventura",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhH4ymbCFiVKVsbv"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "nombre": "Primera División de Costa Rica - San Carlos - Escorpiones",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhXTAegPYWXzJoF8"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "nombre": "México - Necaxa - Monterrey [español]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLhmqMXmaqJaf7isW"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "nombre": "México - Necaxa - Monterrey [alt en español]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLi2DYQrn86dKveVs"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "nombre": "Liga de Expansión de México - Tapatio - Cruz Azul Hidalgo",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiGbjHwyQtfzja8B"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "nombre": "NWSL - Washington Spirit W - Denver Summit W",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiWyvB3AhgifYVjd"
-  },
-  {
-    "hora": "18:10 UTC -5",
-    "nombre": "Colombia Primera A - Alianza - Fortaleza",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7TRMFqjFpvCP4NB"
+    "nombre": "Serie A de Brasil - Corintios - Athletico-PR",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPDyfbHWft6UrWT7"
   },
   {
     "hora": "18:30 UTC -5",
-    "nombre": "Bolivia - Nacional Potosí - Tomayapo",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7xBj227qR1Xzuda"
+    "nombre": "Serie de verano de la Premier League - Sunderland - Leeds [inglés]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4oeiDxdExnTVJFHv"
   },
   {
     "hora": "18:30 UTC -5",
-    "nombre": "Serie C de Brasil - Amazonas - Paysandu PA",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtZXbTBcCYXQJyny"
+    "nombre": "Serie de verano de la Premier League - Sunderland - Leeds [español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmh4ou6QqiSFaWA7AvH"
   },
   {
     "hora": "19:00 UTC -5",
-    "nombre": "Perú - Deportivo Garcilaso - FC Cajamarca",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAtounLGoVLa57uRL"
+    "nombre": "El Salvador - AD Isidro Metapan - FAS",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtzC2Gzx53EF2RsZa"
   },
   {
     "hora": "19:15 UTC -5",
-    "nombre": "Ecuador - Barcelona Guayaquil - LDU Quito",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAu4HyDMzn8cjvq3h"
+    "nombre": "Liga Profesional Argentina - Central Córdoba - Atlético Tucumán",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmtzgnem8TcpLN3iq1"
+  },
+  {
+    "hora": "19:15 UTC -5",
+    "nombre": "Liga Profesional Argentina - Independiente - Newell's Old Boys",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtzwAqeDeucP2ryvT"
   },
   {
     "hora": "19:30 UTC -5",
-    "nombre": "Chile Primera A - D. Concepción-O'Higgins",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuJgA6TC4vfQjkg4"
+    "nombre": "Serie A de Brasil - Coritiba - Cruzeiro",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtmnttxULZXwZyyiD"
+  },
+  {
+    "hora": "19:30 UTC -5",
+    "nombre": "Copa Sudamericana - Caracas - Independiente Santa Fe [inglés]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmmtn3H5qZXrKzEnuLa"
+  },
+  {
+    "hora": "19:30 UTC -5",
+    "nombre": "Copa Sudamericana - Caracas - Independiente Santa Fe [español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtnHfGiej982ubpxw"
+  },
+  {
+    "hora": "19:30 UTC -5",
+    "nombre": "Copa Sudamericana - Caracas - Independiente Santa Fe [español alternativo]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmmtnY3TbjvRv5aQkbJ"
+  },
+  {
+    "hora": "19:30 UTC -5",
+    "nombre": "Copa Sudamericana - O'Higgins - Boca Juniors [inglés]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBE6hoTHhG7uBgaU"
+  },
+  {
+    "hora": "19:30 UTC -5",
+    "nombre": "Copa Sudamericana - O'Higgins - Boca Juniors [español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBUUtgYUz4AZzcCq"
+  },
+  {
+    "hora": "19:30 UTC -5",
+    "nombre": "Copa Sudamericana - O'Higgins - Boca Juniors [alternativa en español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjBis5ZdgGrDEoXqC"
   },
   {
     "hora": "20:00 UTC -5",
-    "nombre": "Laredo Heat - Vermont Green",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuZ4LyYPMii5Z1mZ"
+    "nombre": "Copa Centroamericana de la CONCACAF - Herediano - Maratón [inglés]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjCDdTKp4rSJaRP5u"
   },
   {
     "hora": "20:00 UTC -5",
-    "nombre": "Campeonato de la CONCACAF - Honduras Sub-20 - Jamaica Sub-20",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGAuoSXrdaeWkkMbvm"
+    "nombre": "Copa Centroamericana de la CONCACAF - Herediano - Maratón [español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmrjCU1eCuG9EMEvAh9"
   },
   {
     "hora": "20:00 UTC -5",
-    "nombre": "NWSL - Angel City W - Racing Louisville W [inglés]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JVVn4Lwuro58XtK"
+    "nombre": "Campeonato de la CONCACAF - México Sub-20 - Guatemala Sub-20",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriy5MWe4kWMs7EErY"
   },
   {
     "hora": "20:00 UTC -5",
-    "nombre": "NWSL - Angel City W - Racing Louisville W [español]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JjsxwS9CeqjwTWg"
+    "nombre": "Colombia Primera A - Bucaramanga - Llaneros",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmriyKjhX9wo9un3AUu"
   },
   {
-    "hora": "20:06 UTC -5",
-    "nombre": "México - Pachuca - Querétaro [español]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JzG9pXLVStQkid6"
+    "hora": "20:00 UTC -5",
+    "nombre": "Liga de Expansión de México - Alebrijes Oaxaca - Dorados de Sinaloa",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5Uuqmriya7tQF95wxSr67G"
   },
   {
-    "hora": "20:06 UTC -5",
-    "nombre": "México - Pachuca - Querétaro [español alternativo]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1KEeLhcXnEw5ZeG8"
+    "hora": "21:00 UTC -5",
+    "nombre": "El Salvador - Inter Santa Tecla - Águila",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrgtrETmmopTBwh47"
   },
   {
-    "hora": "20:15 UTC -5",
-    "nombre": "Colombia Primera A - Once Caldas - Cúcuta",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM15qzD8n29NSwsiRX"
+    "hora": "22:00 UTC -5",
+    "nombre": "Copa Centroamericana de la CONCACAF - CSD Municipal - Cartagines [español]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrTzxUf7ekY4PswwL"
+  },
+  {
+    "hora": "22:00 UTC -5",
+    "nombre": "Copa Centroamericana de la CONCACAF - CSD Municipal - Cartagines [ne]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhMrUFLfYCr3L74gsZh"
   }
 ]
