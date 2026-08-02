@@ -1,55 +1,128 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="República Checa",08:00 | Sigma Olomouc - Mladá Boleslav
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMFkhKzCEVDEA7q98
-
-#EXTINF:-1 group-title="Amigable",08:00 | Feyenoord - Atalanta
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMG15WsHRn1GpvkmV
-
-#EXTINF:-1 group-title="Liga de Letonia",08:00 | Tukums 2000 - FK Liepaja
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGFThkNd4oKVjgPr
-
-#EXTINF:-1 group-title="Liga Premier de Rusia",08:00 | Orenburg - Zenit
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGVqtdTpMbNAYc2t
-
-#EXTINF:-1 group-title="Escocia",08:00 | St Johnstone - Kilmarnock
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGkE5WZ1ePQqMXfG
-
-#EXTINF:-1 group-title="Brasileño",09:00 | Palmeiras W - Internacional W
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3bx8pohJJyNUXT1
-
-#EXTINF:-1 group-title="Dinamarca",09:00 | Brondby - Viborg
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3rLKhttb723HnYT
-
-#EXTINF:-1 group-title="Islas Feroe",09:00 | AB Argir - Skála Itrottarfelag
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM46iWaz5su4i6iAp
-
-#EXTINF:-1 group-title="Islas Feroe",09:00 | Klaksvik - B36 Tórshavn
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM4M6hU5HAh7NudoB
-
-#EXTINF:-1 group-title="Islas Feroe",09:00 | Streymur - Vikingur
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBT39wfneS39hgZmg
-
-#EXTINF:-1 group-title="Finlandia Veikkausliiga",09:00 | AC Oulu - Ilves
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTHY8YsqiqCNVVQ3
-
-#EXTINF:-1 group-title="Amigable",09:00 | Burnley - Torino
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTXvKRy31dF3JR2Q
-
-#EXTINF:-1 group-title="Islandia",09:00 | IA Akranes - Vikingur Reikiavik
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTnJWK4EJRHi7LfS
-
-#EXTINF:-1 group-title="Irlanda",09:00 | Waterford - Shelbourne
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBU2ghC9RbDLNvGHo
-
-#EXTINF:-1 group-title="Allsvenskan",09:30 | AIK - Orgryte
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBUH4t5Ect1P3jBvA
-
-#EXTINF:-1 group-title="Amigable",09:30 | Trabzonspor - Udinese
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBEtQkWQ7F8tv3G5Z
-
-#EXTINF:-1 group-title="Superliga Suiza",09:30 | FC Sion - Lucerna
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBF8nwPVJXvwarXB1
-
-#EXTINF:-1 group-title="Superliga Suiza",09:30 | Saltamontes - Lugano
-https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBFPB8GaVpizFfSoN
+[
+  {
+    "hora": "08:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "República Checa",
+    "partido": "Sigma Olomouc - Mladá Boleslav",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMFkhKzCEVDEA7q98"
+  },
+  {
+    "hora": "08:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Amigable",
+    "partido": "Feyenoord - Atalanta",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMG15WsHRn1GpvkmV"
+  },
+  {
+    "hora": "08:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Liga francesa de Letonia",
+    "partido": "Tukums 2000 - FK Liepaja",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGFThkNd4oKVjgPr"
+  },
+  {
+    "hora": "08:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Liga Premier de Rusia",
+    "partido": "Orenburg - Zenit",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGVqtdTpMbNAYc2t"
+  },
+  {
+    "hora": "08:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Escocia",
+    "partido": "St Johnstone - Kilmarnock",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcMGkE5WZ1ePQqMXfG"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Brasileño",
+    "partido": "Palmeiras W - Internacional W",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3bx8pohJJyNUXT1"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Dinamarca",
+    "partido": "Brondby - Viborg",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3rLKhttb723HnYT"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Islas Feroe",
+    "partido": "AB Argir - Skála Itrottarfelag",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM46iWaz5su4i6iAp"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Islas Feroe",
+    "partido": "Klaksvik - B36 Tórshavn",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM4M6hU5HAh7NudoB"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Islas Feroe",
+    "partido": "Streymur - Vikingur",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBT39wfneS39hgZmg"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Finlandia Veikkausliiga",
+    "partido": "AC Oulu - Ilves",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTHY8YsqiqCNVVQ3"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Amigable",
+    "partido": "Burnley - Torino",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTXvKRy31dF3JR2Q"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Islandia",
+    "partido": "IA Akranes - Vikingur Reikiavik",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTnJWK4EJRHi7LfS"
+  },
+  {
+    "hora": "09:00 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Irlanda",
+    "partido": "Waterford - Shelbourne",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBU2ghC9RbDLNvGHo"
+  },
+  {
+    "hora": "09:30 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Allsvenskan",
+    "partido": "AIK - Orgryte",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBUH4t5Ect1P3jBvA"
+  },
+  {
+    "hora": "09:30 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Amigable",
+    "partido": "Trabzonspor - Udinese",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBEtQkWQ7F8tv3G5Z"
+  },
+  {
+    "hora": "09:30 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Superliga suiza",
+    "partido": "FC Sion - Lucerna",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBF8nwPVJXvwarXB1"
+  },
+  {
+    "hora": "09:30 UTC -5",
+    "deporte": "FÚTBOL",
+    "liga": "Superliga suiza",
+    "partido": "Saltamontes - Lugano",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBFPB8GaVpizFfSoN"
+  }
+]
