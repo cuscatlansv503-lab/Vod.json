@@ -2,69 +2,6 @@
   {
     "hora": "13:00 UTC -5",
     "deporte": "FÚTBOL",
-    "liga": "Argentina Primera B",
-    "partido": "San Martín Burzaco - Dep. Merlo",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61ny68Ddx776g9aYt7"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera B",
-    "partido": "Villa San Carlos - Muelle Sur",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyLWQX3JPtipPUWU"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera Nacional",
-    "partido": "Almirante Brown - Racing Córdoba",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyatbQ8VggmVCQ9W"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera Nacional",
-    "partido": "Chacarita Juniors - Agropecuario",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyqGnHDgyUpA1Kms"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera Nacional",
-    "partido": "Ciudad Bolívar - CA Mitre",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nz5eyAJtGGrppFQE"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera Nacional",
-    "partido": "San Telmo - San Miguel",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nzL3A3Q5Z4uVdB2b"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "República Checa",
-    "partido": "FK Pardubice - FK Baumit Jablonec",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbNirkg64FzfF4bJ"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Ecuador",
-    "partido": "Independiente del Valle - Deportivo Cuenca",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbd73dmHM43L3zDf"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Amigable",
-    "partido": "Galatasaray - Rennes",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbsVEWrUdr5zrur2"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "FÚTBOL",
     "liga": "Irlanda",
     "partido": "Bohemios - Galway",
     "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEc7sRPwfve8ffqUP"
