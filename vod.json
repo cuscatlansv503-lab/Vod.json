@@ -1,40 +1,5 @@
 [
   {
-    "hora": "14:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Brasileño",
-    "partido": "Botafogo Sub-17 - Sao Paulo Sub-17",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLi2DYQtLEoJzY77j"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa Africana de Naciones",
-    "partido": "Burkina Faso Oeste - Sudáfrica Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbABLiWyvB4ipPQL9xMV"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa Africana de Naciones",
-    "partido": "Tanzania Oeste - Costa de Marfil Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7D3ANn65jSevtKz"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Campeonato de la CONCACAF",
-    "partido": "Costa Rica Sub-20 - Haití Sub-20 [inglés]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7TRMFsHNXVKk9SP"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Campeonato de la CONCACAF",
-    "partido": "Costa Rica Sub-20 - Haití Sub-20 [español]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAGB7hoY8xUfKXzZ54k"
-  },
-  {
     "hora": "16:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Venezuela",
