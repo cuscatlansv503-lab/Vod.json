@@ -1,33 +1,5 @@
 [
   {
-    "hora": "14:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Bolivia",
-    "partido": "Universitario de Vinto - Real Potosí",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzTBAsvcvfgdm8Nd"
-  },
-  {
-    "hora": "14:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Colombia Primera B",
-    "partido": "Real Cundinamarca - Boca Juniors",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzhZMm1pDTjJa3zz"
-  },
-  {
-    "hora": "14:15 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Islandia",
-    "partido": "Stjarnan W - Throttur W",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnJRyiY5jmRr7pfm"
-  },
-  {
-    "hora": "14:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Venezuela",
-    "partido": "Rayo Zuliano - Anzoategui FC",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnYpAbdH2ZUWvkJ8"
-  },
-  {
     "hora": "15:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Copa Africana de Naciones",
