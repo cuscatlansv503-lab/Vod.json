@@ -1,33 +1,5 @@
 [
   {
-    "hora": "14:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Amigable",
-    "partido": "Mallorca - PSG [español]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM1JjsxwThKFS47D7Q"
-  },
-  {
-    "hora": "14:15 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Islandia",
-    "partido": "FH Hafnarfjordur - KR Reikiavik",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16LkatyxqZ8beynD"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa Africana de Naciones",
-    "partido": "Egipto Oeste - Nigeria Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16b8mn5A8MBGTuPd"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa Africana de Naciones",
-    "partido": "Malaui Oeste - Zambia Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16qWxfAMR9DwGq1z"
-  },
-  {
     "hora": "17:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Liga Profesional Argentina",
