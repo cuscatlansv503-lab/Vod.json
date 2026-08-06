@@ -1,40 +1,5 @@
 [
   {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa Africana de Naciones",
-    "partido": "Cabo Verde Oeste - Camerún Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnoCMUiUKMXBjfvV"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa Africana de Naciones",
-    "partido": "Malí Oeste - Ghana Oeste",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxo3aYMofc9ZrYbXu"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Perú",
-    "partido": "Alianza Atlético - Cienciano",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBjdnZX2sVcBKXWQ"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Venezuela",
-    "partido": "Estudiantes Mérida - Zamora",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61oBz1yScEAHer8nco"
-  },
-  {
-    "hora": "15:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Serie B de Ecuador",
-    "partido": "Atlético FC - Dep. santo domingo",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61ny68Ddx771G44i3b"
-  },
-  {
     "hora": "16:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Colombia Primera B",
