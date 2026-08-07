@@ -1,47 +1,5 @@
 [
   {
-    "hora": "16:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Colombia Primera B",
-    "partido": "Atlético FC - Real Santander",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyLWQX3JPoJisdfx"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Colombia Primera B",
-    "partido": "Bogotá - Leones",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyatbQ8VgbMPgZJK"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Liga Profesional Argentina",
-    "partido": "Unión de Santa Fe - Lanús",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyqGnHDgyPQ4VUvg"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Copa del Caribe de la CONCACAF",
-    "partido": "Sando - Broki",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nz5eyAJtGBSjJQZ3"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Liga de Expansión de México",
-    "partido": "Tlaxcala - Alebrijes Oaxaca",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nzL3A3Q5YyVQ7LAT"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Venezuela",
-    "partido": "Puerto Cabello - Caracas",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbsVEWrUdwH1KRsr"
-  },
-  {
     "hora": "18:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Copa de Brasil",
