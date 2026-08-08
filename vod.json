@@ -1,40 +1,5 @@
 [
   {
-    "hora": "17:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera B",
-    "partido": "CSD Comunicaciones - Villa San Carlos",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEcNFcH2sDXbRkqCo"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Argentina Primera B",
-    "partido": "Ituzaingó - Deportivo Camioneros",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEccdoA84WKe6a6JF"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Liga AUF Uruguaya",
-    "partido": "Cerro Largo - Juventud De Las Piedras",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPDyfbHYsT9xtATe"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Liga Profesional Argentina",
-    "partido": "Rosario Central - CA Aldosivi",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPik3MTwT3FJW1iP"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Serie B de Brasil",
-    "partido": "Operario-PR - Sao Bernardo",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEPy8EEZ8jqHyJwLk"
-  },
-  {
     "hora": "18:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Argentina Primera Nacional",
