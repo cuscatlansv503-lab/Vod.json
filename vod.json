@@ -1,54 +1,5 @@
 [
   {
-    "hora": "14:15 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Islandia",
-    "partido": "Valur F - Vikingur Reykjavik F",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyLWQX3JPoRGfuxC"
-  },
-  {
-    "hora": "14:15 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Liga Portugal",
-    "partido": "Estoril - Famalicão",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyatbQ8VgbaUjYcF"
-  },
-  {
-    "hora": "15:15 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Perú",
-    "partido": "Comerciantes Unidos - Cusco",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb61nyqGnHDgyPd9YUEc"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Campeonato de la CONCACAF",
-    "partido": "Costa Rica Sub-20 - Estados Unidos Sub-20 [inglés]",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbNirkg64MQkX8ge"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Campeonato de la CONCACAF",
-    "partido": "Costa Rica Sub-20 - Estados Unidos Sub-20 [español]",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbd73dmHM9TRL4K1"
-  },
-  {
-    "hora": "16:15 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Bolivia",
-    "partido": "Academia del Balompié - Guabira",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEbsVEWrUdwW68ywN"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "deporte": "FÚTBOL",
-    "liga": "Paraguay",
-    "partido": "Rubio Nu - Recoleta",
-    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqmcEc7sRPwfvjYkwuaR"
-  },
-  {
     "hora": "17:00 UTC -5",
     "deporte": "FÚTBOL",
     "liga": "Argentina Primera B",
