@@ -306,5 +306,105 @@
     "liga": "Liga Portugal",
     "partido": "Maritimo - Academico Viseu",
     "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM166NQ1tvLnD2jtrL"
+  },
+  
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Austria Bundesliga",
+    "partido": "SCR Altach - Hartberg",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16Lkatz7daFhYpVN"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Czech Republic",
+    "partido": "Artis Brno - Sparta Prague",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16b8mn5JvNJNMk7j"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Czech Republic",
+    "partido": "FC Zlin - Slovan Liberec",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16qWxfAWDAM3Afk6"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Czech Republic",
+    "partido": "Mlada Boleslav - Slovacko",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM175u9YFhVxPhybNT"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "LaLiga",
+    "partido": "Athletic Bilbao - Sevilla [english]",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqVmxPjy4mJS2kXLx"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "LaLiga",
+    "partido": "Athletic Bilbao - Sevilla [spanish]",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqW2Lad4G46UhZSyK"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "LaLiga2",
+    "partido": "Oviedo - Leganes",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqWGimW9TLtXNNNaj"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Moldova",
+    "partido": "Balti - Zimbru Chisinau",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqWX6xPEedga3BJD6"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Russia Premier League",
+    "partido": "Akhmat Grozny - FK Rostov",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqH8SppQ8zp5uVhrX"
+  },
+  {
+    "hora": "10:15 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ligue 1",
+    "partido": "Lens - Auxerre [english]",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHdDCaaXaQBF7Z7v"
+  },
+  {
+    "hora": "10:15 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ligue 1",
+    "partido": "Lens - Auxerre [spanish]",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHsbPTfisCDuvUkH"
+  },
+  {
+    "hora": "10:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ekstraklasa",
+    "partido": "Piast Gliwice - Legia Warsaw",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJNMmDr7SnKFYL11"
+  },
+  {
+    "hora": "10:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Romania",
+    "partido": "UTA Arad - Corvinul",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzTBAsvmigaebJoN"
+  },
+  {
+    "hora": "10:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Slovenia",
+    "partido": "Mura - FC Koper",
+    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzhZMm1y1UdKQERj"
   }
+  
 ]
