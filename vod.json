@@ -1,40 +1,5 @@
 [
   {
-    "hora": "16:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Copa Paraguay",
-    "partido": "Sol de America - Sportivo Trinidense",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM15qzD8oj3trpCjhy"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Paraguay",
-    "partido": "2 de Mayo - Guarani",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM166NQ1tvLguV1fLL"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Argentina Primera Nacional",
-    "partido": "Deportivo Madryn - Godoy Cruz",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16Lkatz7dUx9payP"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Brazil Serie B",
-    "partido": "Atletico GO - Botafogo SP",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16b8mn5JvGzpdWbk"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Brazil Serie B",
-    "partido": "Juventude - CRB",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbAM16qWxfAWD53VSSE7"
-  },
-  {
     "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Argentina Primera B",
