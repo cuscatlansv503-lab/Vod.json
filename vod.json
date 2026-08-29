@@ -1,75 +1,5 @@
 [
   {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Belgium 1B",
-    "partido": "Patro Eisden - Club Brugge KV U23",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqHsbPTfm4anqmigD"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Czech Republic",
-    "partido": "Banik Ostrava - Sigma Olomouc",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJ7yaLkxMNqWaeHd"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Ecuador",
-    "partido": "Independiente del Valle - CD Universidad Catolica",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetbARqJNMmDr9eAtBPZuz"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Ligue 2",
-    "partido": "Guingamp - Nantes",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzTBAsvov59aStCP"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Mexico Liga de Expansion",
-    "partido": "Cruz Azul Hidalgo - Tepatitlan de Morelos",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzhZMm21CsCFFopk"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Montenegro",
-    "partido": "Petrovac - Mornar Bar",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxzwwYe7CVfEv4jTn"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NSL",
-    "partido": "Montreal Roses W - Halifax Tides W",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vy1CKjXCPnTHasf69"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Peru",
-    "partido": "Los Chankas - Juan Pablo II",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxmofbxMt9aoTBjFY"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Saudi Professional League",
-    "partido": "Al Fateh - Al Ittihad [english]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxn43nqT5SNr7zesu"
-  },
-  {
-    "hora": "13:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Saudi Professional League",
-    "partido": "Al Fateh - Al Ittihad [spanish]",
-    "url": "https://www.vdocity.com/_2UbEamZvh72YBZXetb5vxnJRyiYGjAtnoaWG"
-  },
-  {
     "hora": "13:15 UTC -5",
     "deporte": "SOCCER",
     "liga": "Ekstraklasa",
@@ -397,5 +327,131 @@
     "liga": "Liga Portugal 2",
     "partido": "Torreense - Vizela",
     "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgsSAHW4kBonEL3xJ"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Argentina Liga Profesional",
+    "partido": "Rosario Central - Gimnasia LP",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgsgYUP9wUbpu8yag"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Amazonas - Ypiranga FC",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgsvvfGF8mPsZwuDi"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Anapolis - Santa Cruz",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgtBJr9LL4BvEkpr5"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Barra FC - Volta Redonda",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgtRh32RXLyxuZkUS"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Ferroviaria - Confianca",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgf32uTb1i7Umspdq"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Figueirense - Maranhao",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgfHR6LgCzuXSh5jH"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Floresta EC - Ituano",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgfXoHDmQHha7W1Me"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Guarani - Brusque",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhSgfnBU6rbaVcnJvz1"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Itabaiana - Botafogo PB",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX4UEiJZxqqf75rxW"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "Paysandu PA - Maringa FC",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX4icuBfA8dhmtnas"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Brazil Serie C",
+    "partido": "SER Caxias - Inter de Limeira",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX4y164kMRRkShiDE"
+  },
+  {
+    "hora": "15:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Liga AUF Uruguaya",
+    "partido": "Defensor Sporting - Montevideo City",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhXX5DPGwqYiDo7WdrG"
+  },
+  {
+    "hora": "15:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Colombia Primera B",
+    "partido": "Atletico F.C. - Bogota",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM3rLKhs2tZNXpDXH"
+  },
+  {
+    "hora": "15:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Colombia Primera B",
+    "partido": "Real Santander - Inter Palmira",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM46iWaxEBMRCdUcj"
+  },
+  {
+    "hora": "15:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ecuador Serie B",
+    "partido": "Gualaceo - El Nacional",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhcM4M6hU3RU9TsSQF6"
+  },
+  {
+    "hora": "15:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "MLS",
+    "partido": "Seattle Sounders - Chicago Fire [english]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBT39wfknjVWCDLDb"
+  },
+  {
+    "hora": "15:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "MLS",
+    "partido": "Seattle Sounders - Chicago Fire [spanish]",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTHY8Yqz2HYs2Fqx"
+  },
+  {
+    "hora": "15:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Peru",
+    "partido": "UTC Cajamarca - Universitario de Deportes",
+    "url": "https://www.vdocity.com/_VkS5FxyQndeYQc1y5UuqhhBTXvKRwBK5bXqBUK"
   }
 ]
