@@ -1,401 +1,625 @@
 [
   {
-    "hora": "15:00 UTC -5",
+    "hora": "10:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Argentina Liga Profesional",
-    "partido": "Central Cordoba - Independiente",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61957o5d6NJsaHtGpyd"
+    "liga": "Bulgaria",
+    "partido": "Fratria - Chernomorets 1919",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqm5ob9Y72BxEFKCTADz"
   },
   {
-    "hora": "15:00 UTC -5",
+    "hora": "10:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Argentina Liga Profesional",
-    "partido": "Lanus - Defensa y Justicia",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61DuK5YEmxipQDRqE8G"
+    "liga": "Greece Super League",
+    "partido": "Asteras Tripolis - Iraklis 1908",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmAdnRzihnNB5Ek1ZNd"
+  },
+  {
+    "hora": "10:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Slovakia 2. liga",
+    "partido": "Zilina B - Slovan Bratislava B",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQiqmFTyiTLPNn7uAHZxXG"
+  },
+  {
+    "hora": "10:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Saudi Professional League",
+    "partido": "Al Khaleej - Al Riyadh",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwo31TPBCQhSchub5Hy"
+  },
+  {
+    "hora": "10:45 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Lithuania",
+    "partido": "Hegelmann - FK Panevezys",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTwssCjqnt17PSdT9USc"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Bundesliga Women",
+    "partido": "Union Berlin W - Eintracht Frankfurt W",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsYf5yyoP9eEUdAL9yX"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Cyprus",
+    "partido": "Pafos - Ol. Nicosia",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsdVHGSR4k4BJYhtZ8A"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ekstraklasa",
+    "partido": "Wieczysta Krakow - Zaglebie Lubin",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsiKUYu2kLU88UFSxGo"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Finland Ykkosliiga",
+    "partido": "Klubi 04 - KaPa",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTso9fqMeRvt4xPo1MRS"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Leumit League",
+    "partido": "Bnei Yehuda - Hapoel Rishon LeZion",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTssys7pG7XJ1nKLZkak"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Leumit League",
+    "partido": "Kiryat Gat - Maccabi Herzliya",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQkTsxp4QGso7hxcEt89jP"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Leumit League",
+    "partido": "MS Kafr Qasim - Ironi Modiin",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64RYtrk6vZDLVrxasMU"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Latvia Virsliga",
+    "partido": "Riga FC - BFC Daugavpils",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64WP69Cic9dHKnW9GW7"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Latvia Virsliga",
+    "partido": "Rigas FS - FK Liepaja",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn64bDHRfLHk3E9i3hfek"
+  },
+  {
+    "hora": "11:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serbia Prva Liga",
+    "partido": "Vozdovac - TSC",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5z6Ln6t7RhkBXrfYT6L"
+  },
+  {
+    "hora": "11:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Russia Premier League",
+    "partido": "Rubin Kazan - Akhmat Grozny",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQn5zbKwodoXGDrVPvtqzp"
+  },
+  {
+    "hora": "11:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie A",
+    "partido": "Cagliari - Lecce [english]",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB44nG72ehjEP21MZcu"
+  },
+  {
+    "hora": "11:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie A",
+    "partido": "Cagliari - Lecce [spanish]",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiB8tyYZeLJ9BCwYuxmY"
+  },
+  {
+    "hora": "11:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie A",
+    "partido": "Cagliari - Lecce [italian]",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoiBDjAq2G1tZ82s6UMvB"
+  },
+  {
+    "hora": "11:45 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Ligat ha'Al",
+    "partido": "Maccabi Netanya - Hapoel Haifa",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi6yMFMctCdVutnLz1LY"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Allsvenskan",
+    "partido": "Kalmar - Djurgarden",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi74BSe5VtDurihtYjxK"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Allsvenskan",
+    "partido": "Malmo FF - AIK",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi791dvY7ZpKoYdS796x"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Allsvenskan",
+    "partido": "Mjallby - Goteborg",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhQoi7DqqCzjFQjkNYyfYGG"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Cyprus",
+    "partido": "Aris - Omonia",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ614EvWd1QmtvkbS4Yiu"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Denmark",
+    "partido": "Midtjylland - Nordsjaelland",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61957o5d6NJsaWycwsY"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Egypt",
+    "partido": "National Bank Egypt - Ghazl El Mahallah",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ61DuK5YEmxipQSXBM2B"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Egypt",
+    "partido": "Petrojet - Al Masry",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vj2okm1uvRmnb91nzg"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Ligat ha'Al",
+    "partido": "Hapoel Tel Aviv - Hapoel Ramat Gan",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vos13DdbWqicWgaXcQ"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Liga Portugal 2",
+    "partido": "Lusitania FC - AFS",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vthCKgFH7FfSSE8vm3"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Malta Super Cup",
+    "partido": "Floriana - Valletta",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vyXPc8rxhfcGMmhKug"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Poland Div 1",
+    "partido": "Ruch Chorzow - Skierniewice",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w4MatbUeJ5Z6HKFj4K"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Turkey Super Lig",
+    "partido": "Goztepe - Gaziantep",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w9BnB46KtVVvCrp8Cx"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Turkey Super Lig",
+    "partido": "Rizespor - Alanyaspor",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5wE1yTWi1UuSk8QNXNG"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Turkey 1. Lig",
+    "partido": "Manisa FK - Bursaspor",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7gkouyw8vQpdkUqEzM"
+  },
+  {
+    "hora": "12:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Turkey 1. Lig",
+    "partido": "Mardin 1969 - Bodrumspor",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi7mb1CSYpWpmTg2Pe8z"
+  },
+  {
+    "hora": "12:05 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Superettan",
+    "partido": "Orebro - Ostersund",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3gsUHxQNSbSySN2RKi"
+  },
+  {
+    "hora": "12:15 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Ligat ha'Al",
+    "partido": "Bnei Sakhnin - Beitar Jerusalem",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEKGhKLrs4viWuXbwF5"
+  },
+  {
+    "hora": "12:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Bulgaria",
+    "partido": "Dunav Ruse - Slavia Sofia",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEQ6tboUYfLfLq5ALPi"
+  },
+  {
+    "hora": "12:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Israel Ligat ha'Al",
+    "partido": "Hapoel Beer Sheva - Maccabi Tel Aviv",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEUw5tG6EFkcAkcijZ2"
+  },
+  {
+    "hora": "12:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Romania",
+    "partido": "Universitatea Craiova - U. Cluj",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPML9z4aZUsNDTZYuEZBXX"
+  },
+  {
+    "hora": "12:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Spain Liga F",
+    "partido": "Granada CF W - Real Sociedad W",
+    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA4tmqwV3osWNpn7agA"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Copa Paulista",
+    "partido": "Paulista - Gremio Prudente",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a1vFE7hJxqcDsK8XUL"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Eerste Divisie",
+    "partido": "Jong PSV - Den Bosch",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a6kSWaJzZFZ3nrgvcy"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Eerste Divisie",
+    "partido": "Jong Utrecht - Eindhoven FC",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aBado2vg9fVsiQFKmc"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Liga AUF Uruguaya",
+    "partido": "Albion - Progreso",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aGQq5VYMk5ShdwoivF"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Saudi Professional League",
+    "partido": "Al Hilal - Neom SC [english]",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aMF2MxA3LVPXZVNTXy"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Saudi Professional League",
+    "partido": "Al Hilal - Neom SC [spanish]",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VrNX3AwBJCLui7CuWU"
+  },
+  {
+    "hora": "13:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serbia Super Liga",
+    "partido": "OFK Beograd Mozzart Bet - IMT Novi Beograd",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VwCiKdYrtcHjdemJf7"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ekstraklasa",
+    "partido": "Pogon Szczecin - Wisla Plock",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgtviUrU5tbLanzaRBh"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Italy Serie C",
+    "partido": "Catania - Cosenza",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgykumK5mV1HQiY99oR"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "LaLiga2",
+    "partido": "Sabadell - Cordoba",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcUtQSXruSiEns9ybmv"
+  },
+  {
+    "hora": "13:30 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie B",
+    "partido": "Palermo - Sampdoria",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcZibizUb38BcnhXzvZ"
+  },
+  {
+    "hora": "13:45 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Ligue 2",
+    "partido": "Nantes - Nancy",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdceYo1T6GdY8SiF6Q5E"
+  },
+  {
+    "hora": "13:45 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie A",
+    "partido": "Udinese - Lazio [english]",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcjNzHuhxDx5GdneoEY"
+  },
+  {
+    "hora": "13:45 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie A",
+    "partido": "Udinese - Lazio [spanish]",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcpDBaNKdpN26ZLDCPB"
+  },
+  {
+    "hora": "13:45 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Serie A",
+    "partido": "Udinese - Lazio [italian]",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoGx22qYmFsPzBQfv1G"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Canada",
+    "partido": "HFX Wanderers - Cavalry",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoXSbtDPp37ETx3MSvF"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "England League One",
+    "partido": "Bromley - AFC Wimbledon",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFocGoAg1VdXBHsaur4t"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Italy Serie C",
+    "partido": "Alcione Milano - Treviso",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFj7QHqtndbE8g2CkJ3P"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Italy Serie C",
+    "partido": "Picerno - Inter U23",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjCEV8MQKBe5VwkJhC2"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Italy Serie C",
+    "partido": "Pro Vercelli - Folgore Caratese",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjH4gQp1zn42KsHs6Lf"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Italy Serie C",
+    "partido": "Renate - Novara",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjMtshGdgNTy9nqRVVJ"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Italy Serie C",
+    "partido": "Trento - Lecco",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjSj4yjFMxsuyiNytec"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Paraguay",
+    "partido": "Guarani - Recoleta",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddH8AHMXXL36MkqNu7F"
+  },
+  {
+    "hora": "14:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Portugal Liga Next Gen",
+    "partido": "Braga U23 - Penafiel U23",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddMxMZp9CvT3BgNwJFt"
+  },
+  {
+    "hora": "14:15 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Iceland",
+    "partido": "Stjarnan W - Vikingur Reykjavik W",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZ7aS6QmPfPq3iAheh2"
+  },
+  {
+    "hora": "14:15 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Iceland",
+    "partido": "Throttur W - Breidablik W",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZCQdNsP5FomsdiG3qf"
+  },
+  {
+    "hora": "14:15 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Liga Portugal",
+    "partido": "Estoril - Arouca",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZHEpfKzkrDihZFpSzJ"
   },
   {
     "hora": "15:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Argentina Primera Nacional",
-    "partido": "Central Norte - Almirante Brown",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vj2okm1uvRmnN3fg7S"
+    "partido": "Nueva Chicago - Quilmes",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZN51wncSSdfXUoNr9f"
   },
   {
     "hora": "15:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Argentina Primera Nacional",
-    "partido": "Club A. Guemes - Gimnasia y Tiro",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vos13DdbWqicHbE5G5"
+    "liga": "Brasileiro",
+    "partido": "Corinthians W - Cruzeiro W",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZSuDEFE833cMQLwFJJ"
   },
   {
     "hora": "15:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Chile Primera A",
-    "partido": "Huachipato - Colo Colo",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vthCKgFH7FfSD8nUQi"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NWSL",
-    "partido": "Chicago Red Stars W - North Carolina Courage W",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5vyXPc8rxhfcG8gLsZM"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NWSL",
-    "partido": "Portland Thorns W - Washington Spirit W",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w4MatbUeJ5Z64DuGhz"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Peru",
-    "partido": "Juan Pablo II - Alianza Lima",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5w9BnB46KtVVv6K2rMa"
-  },
-  {
-    "hora": "15:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Venezuela",
-    "partido": "Monagas - Metropolitanos",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPJ5wE1yTWi1UuSk1rbFWD"
+    "liga": "MLS Next Pro",
+    "partido": "Portland Timbers 2 - Vancouver Whitecaps 2",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fjue3giTFUYzF2RPxvP"
   },
   {
     "hora": "15:30 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Colombia Primera B",
-    "partido": "Boca Juniors - Envigado",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3SNtSaZKfMcVZBZcZP"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Colombia Primera A",
-    "partido": "Inter Bogota - Aguilas Doradas",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3c3H1VngrBW9QGgQrf"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Ecuador",
-    "partido": "Delfin - CD Universidad Catolica",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3gsUHxQNSbSyKpEp1J"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "El Salvador",
-    "partido": "Aguila - Alianza FC",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3mhfaR2431PoFN2eQL"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "El Salvador",
-    "partido": "Atletico Balboa - Municipal Limeno",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPKi3rXrrsdjdRLdAub3Yy"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Nicaragua",
-    "partido": "Sport Sebaco - UNAN-Managua",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEKGhKLrs4viWnz3mB4"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Venezuela",
-    "partido": "Trujillanos - Caracas",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEQ6tboUYfLfLiXcAKh"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Brazil Serie A",
-    "partido": "Botafogo RJ - Palmeiras",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLEUw5tG6EFkcAe5AZUL"
-  },
-  {
-    "hora": "16:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Brazil Serie B",
-    "partido": "Ponte Preta - Sao Bernardo",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPML9z4aZUsNDTZYnh11TW"
+    "liga": "Costa Rica Liga de Ascenso",
+    "partido": "Carmelita - Pitbulls",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FkA8dY6JJFnpio45VqQ"
   },
   {
     "hora": "16:30 UTC -5",
     "deporte": "SOCCER",
     "liga": "Paraguay",
-    "partido": "Sportivo Luqueno - Ameliano",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA4tmqwV3osWNiEZQc9"
+    "partido": "Cerro Porteno - Nacional Asuncion",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Ffuki4gvUzjcaiJb9GV"
   },
   {
-    "hora": "16:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Venezuela",
-    "partido": "Deportivo Tachira - Rayo Zuliano",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLA9iy8Q6jQHTCdn7okn"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Bolivia",
-    "partido": "The Strongest - Tomayapo",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAEZAQriQzhQ2ZKgCuR"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Canada",
-    "partido": "Vancouver FC - Supra du Quebec",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAKPMhKL6b7LrUsEc44"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Costa Rica Primera Division",
-    "partido": "Puntarenas FC - Cartagines",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAQDYymwnBXHgQQoLfn"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Leagues Cup",
-    "partido": "Club Leon - Club America [spanish]",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPMLAV3kGEZTmwEWKxMjpR"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Leagues Cup",
-    "partido": "Club Leon - Club America [spanish alt]",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPVawDaZsHjBnsRDFwc"
-  },
-  {
-    "hora": "17:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Leagues Cup",
-    "partido": "Club Leon - Club America [english]",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPaR8W3BYt98cnxmf6F"
-  },
-  {
-    "hora": "17:00 UTC -5",
+    "hora": "16:45 UTC -5",
     "deporte": "SOCCER",
     "liga": "Mexico",
-    "partido": "Queretaro W - Cruz Azul W",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPfFKnVoEUZ5SiWL4Et"
+    "partido": "Atlante W - Juarez W",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fg5R6dc9rBZWEZPhwZk"
   },
   {
     "hora": "17:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "USL1",
-    "partido": "Portland Hearts of Pine - Westchester SC",
-    "url": "https://www.vdocity.com/_VkZwhkjAqMNsCsQAhPQaPk5X4xQv4y2Ge3tTQC"
-  },
-  {
-    "hora": "17:15 UTC -5",
-    "deporte": "SOCCER",
     "liga": "Argentina Liga Profesional",
-    "partido": "River Plate - Independiente Rivadavia",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1a1vFE7hJxqcDkmMFd2"
+    "partido": "Barracas Central - Argentinos Jrs",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srcz8NXzfDUpx71jPoZ"
   },
   {
-    "hora": "17:30 UTC -5",
+    "hora": "17:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Venezuela",
+    "partido": "Carabobo - Estudiantes Merida",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srhpKezcLotmn2ZHnxC"
+  },
+  {
+    "hora": "18:00 UTC -5",
+    "deporte": "SOCCER",
+    "liga": "Argentina Primera B",
+    "partido": "Excursionistas - Ituzaingo",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srsUiDuqhzifRseQbFU"
+  },
+  {
+    "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Brazil Serie A",
-    "partido": "Corinthians - Chapecoense-SC",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aBado2vg9fVsbrU3vJ"
+    "partido": "Vitoria - Gremio",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snNcCu8cqxRcp2GF3Dy"
   },
   {
-    "hora": "17:30 UTC -5",
+    "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Chile Primera A",
-    "partido": "Palestino - Universidad de Concepcion",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aGQq5VYMk5ShXQ2T4w"
-  },
-  {
-    "hora": "17:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Liga AUF Uruguaya",
-    "partido": "Liverpool Montevideo - Boston River",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1aMF2MxA3LVPXSwbBgf"
+    "partido": "Limache - Cobresal",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snTSQBbEXYqZdwooSNc"
   },
   {
     "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Guatemala",
-    "partido": "CSD Municipal - Deportivo San Pedro",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1VwCiKdYrtcHjX6z2oo"
+    "liga": "Colombia Primera A",
+    "partido": "Llaneros - Deportes Tolima",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snYGbU3rD9FWTsMMqXv"
   },
   {
     "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Mexico",
-    "partido": "Cruz Azul - Santos Laguna [spanish]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1W22uc6AYV2EZSeYRxT"
+    "liga": "NCAA",
+    "partido": "Cal State Northridge vs. Stanford",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snd6nkWTtjfTHntvEgZ"
   },
   {
     "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Mexico",
-    "partido": "Cruz Azul - Santos Laguna [spanish alt]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1W6s6tYnE5SBPNC6q76"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Mexico Liga de Expansion",
-    "partido": "Tapatio - Leones Negros",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZU1WBhJB1Pufr8DHjfEFg"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NWSL",
-    "partido": "Orlando Pride W - Houston Dash W",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgeS8dUd37MW6up7wtU"
-  },
-  {
-    "hora": "18:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Nicaragua",
-    "partido": "CD Walter Ferretti - Managua FC",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgjGKuwEihmSvqMgM37"
+    "liga": "NCAA",
+    "partido": "Georgetown vs. Maryland",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4snhvz2y5aL5Q7iSUdqC"
   },
   {
     "hora": "18:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Venezuela",
-    "partido": "Deportivo La Guaira - Anzoategui FC",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgp6XCPrQJBPkkuEkBk"
-  },
-  {
-    "hora": "18:10 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Colombia Primera A",
-    "partido": "Pereira - Millonarios",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdgykumK5mV1HQbzMsx7"
-  },
-  {
-    "hora": "18:15 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Honduras",
-    "partido": "Real Espana - UPNFM",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcUtQSXruSiEnkcCKvc"
-  },
-  {
-    "hora": "18:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "El Salvador",
-    "partido": "Luis Angel Firpo - Inter Santa Tecla",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcjNzHuhxDx5GXEsXNX"
-  },
-  {
-    "hora": "18:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Peru",
-    "partido": "FBC Melgar - AD Tarma",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZVdcpDBaNKdpN26SnRvXA"
-  },
-  {
-    "hora": "19:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Bolivia",
-    "partido": "Nacional Potosi - Blooming",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoGx22qYmFsPz4rte9v"
+    "partido": "Universidad Central - Puerto Cabello",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyAfpVSJhman1LWwMTH"
   },
   {
     "hora": "19:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Ecuador",
-    "partido": "Deportivo Cuenca - Libertad",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoMnDKJASrHLozQT3JZ"
+    "partido": "Emelec - Manta",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VyVzbdGmS9EZK2hBHWu"
   },
   {
     "hora": "19:00 UTC -5",
     "deporte": "SOCCER",
     "liga": "Ecuador",
-    "partido": "SD Aucas - Barcelona Guayaquil",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoScQbkn8ShHdux1STC"
+    "partido": "Mushuc Runa - Leones del Norte",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6Vu186JVYa6wWhBK1jVQ"
   },
   {
-    "hora": "19:06 UTC -5",
+    "hora": "19:00 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Mexico",
-    "partido": "Tigres UANL W - Santos Laguna W",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFoXSbtDPp37ETqVZqbq"
+    "liga": "Ecuador",
+    "partido": "Orense - Guayaquil City",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6Vu5xHaxAFhMTX6ra8e3"
   },
   {
-    "hora": "19:30 UTC -5",
+    "hora": "19:15 UTC -5",
     "deporte": "SOCCER",
     "liga": "Argentina Liga Profesional",
-    "partido": "Racing Club - Atletico Tucuman",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFocGoAg1VdXBHm3Mfzt"
+    "partido": "Union de Santa Fe - Instituto",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY6VuLSsSL1JUbHzsVFL6e"
   },
   {
-    "hora": "20:00 UTC -5",
+    "hora": "20:06 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Costa Rica Primera Division",
-    "partido": "San Carlos - Sporting FC",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjCEV8MQKBe5VqCkX81"
-  },
-  {
-    "hora": "20:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NWSL",
-    "partido": "Seattle Reign W - San Diego Wave W [english]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjH4gQp1zn42KkkJvGe"
-  },
-  {
-    "hora": "20:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NWSL",
-    "partido": "Seattle Reign W - San Diego Wave W [spanish]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjMtshGdgNTy9gHsKRH"
-  },
-  {
-    "hora": "20:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Nicaragua",
-    "partido": "Matagalpa - Diriangen",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNZXFjSj4yjFMxsuybqRiZv"
+    "liga": "Mexico",
+    "partido": "Club Leon W - Puebla W",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY885t1uBFr7WWciR7GnLT"
   },
   {
     "hora": "20:15 UTC -5",
     "deporte": "SOCCER",
-    "liga": "Colombia Primera B",
-    "partido": "Patriotas - Tigres",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddMxMZp9CvT3BZqP8Bs"
-  },
-  {
-    "hora": "20:15 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Leagues Cup",
-    "partido": "Toluca - Monterrey [spanish]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddSnYrGktWrz1VNwXLW"
-  },
-  {
-    "hora": "20:15 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Leagues Cup",
-    "partido": "Toluca - Monterrey [spanish alt]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddXck8jNa7GvqQvVvV9"
-  },
-  {
-    "hora": "20:15 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Leagues Cup",
-    "partido": "Toluca - Monterrey [english]",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1ddcSwRBzFhgsfLU4f6s"
-  },
-  {
-    "hora": "20:30 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Honduras",
-    "partido": "Juticalpa - Genesis",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY1dZ7aS6QmPfPq3V5u75N"
+    "liga": "Copa Colombia",
+    "partido": "Atletico Nacional - Deportivo Cali",
+    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY8868WV2dhAHkTCBjwynN"
   }
 ]
