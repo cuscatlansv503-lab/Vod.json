@@ -1,47 +1,5 @@
 [
   {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Brazil Copa Paulista",
-    "partido": "Noroeste - Primavera",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Ffuki4gvUzrCvTUhBSs"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Canada",
-    "partido": "Cavalry - Forge",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3FfzauM9YAbG9kP2FabW"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "El Salvador",
-    "partido": "Cacahuatique - FAS",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY3Fg5R6dc9rBg6aJZoyk9"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Guatemala",
-    "partido": "Aurora F.C. - Marquense",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srY9w65NydBUTveGhNE"
-  },
-  {
-    "hora": "16:00 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "NSL",
-    "partido": "Vancouver Rise W - Montreal Roses W",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srcz8NXzfDbRHrBq6Ws"
-  },
-  {
-    "hora": "16:05 UTC -5",
-    "deporte": "SOCCER",
-    "liga": "Colombia Primera A",
-    "partido": "Alianza - Independiente Santa Fe",
-    "url": "https://www.vdocity.com/_Af7qpVE7ZgLfbcn6tKcNY4srhpKezcLp1N7mjPVfW"
-  },
-  {
     "hora": "16:30 UTC -5",
     "deporte": "SOCCER",
     "liga": "Brazil Serie A",
